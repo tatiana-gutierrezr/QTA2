@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">QTA_Tatiana y Pablo</string>
+    <string name="btnIniciarSesion">Iniciar Sesión</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="clave">Contraseña</string>
+    <string name="dm">Dos mitades</string>
+    <string name="dp">Dos palabras</string>
+    <string name="qf">Quitar fragmentos</string>
+    <string name="Dos_Mitades">Dos Mitades</string>
+    <string name="Dos_M">Te voy a ayudar a solucionar el problema de las dos mitades.</string>
+    <string name="Dos_P">Te voy a ayudar a solucionar el problema de las dos palabras.</string>
+    <string name="Mitades_Pasos">
+        1. Ingresa una cadena de caracteres
+        .2. Te ayudare a cortar la cadena en dos partes "iguales" (si la longitud de la cadena es impar, colocare el carácter central en la primera cadena, de modo que la primera cadena contenga un carácter más que la segunda)
+        .3. Luego imprimiré la nueva cadena en una sola fila con la primera y la segunda mitad intercambiadas (la segunda mitad es la primera y la primera mitad es la segunda)</string>
+    <string name ="Solucionar">Solucionar</string>
+    <string name="Dos_Palabras">Dos Palabras</string>
+    <string name ="Palabras_Pasos">
+        1.Ingresa una cadena de caracteres que contenga solo 2 palabras separadas por un espacio.
+        2.Imprimiré una nueva cadena con las posiciones de la primera y segunda palabra intercambiadas (la segunda palabra se imprime primero).</string>
+    <string name="Quitar_Fragmento">Quitar Fragmento</string>
+    <string name="Quitar">Te voy a ayudar a solucionar el problema quitar el fragmento.</string>
+    <string name="Fragmento_Pasos">
+1. Ingresa una cadena de caracteres en la que por lo menos existe 2 veces la letra h.
+2. Eliminare de esa cadena la primera y la última aparición de la letra h, así como todos los caracteres entre ellas.
+3. Luego imprimiré la nueva cadena en pantalla.</string>
+</resources>

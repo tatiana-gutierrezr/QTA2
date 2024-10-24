@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dosmitades"
+        android:title="@string/dm"
+        android:icon="@drawable/dosmitades"/>
+    <item
+        android:id="@+id/dospalabras"
+        android:title="@string/dp"
+        android:icon="@drawable/dospalabras"/>
+    <item
+        android:id="@+id/quitarfragmentos"
+        android:title="@string/qf"
+        android:icon="@drawable/quitarfragmentos"/>
+</menu>
